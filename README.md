@@ -1,2 +1,4 @@
 # hello-world
-test
+testing git branches, commits and pull requests.
+
+Awesomesauce.
